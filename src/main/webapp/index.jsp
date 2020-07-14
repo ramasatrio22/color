@@ -6,7 +6,7 @@
   <HEAD><TITLE>Setting Colors Code</TITLE></HEAD>
 
   <BODY>
-    <H1>ogya-LAB</H1>
+    <H1>ogya-QS</H1>
     <TABLE BORDER="1" align="center" bgcolor="#E8FDFF"
      weight="50%" height="40%">
       <TH>Color Name:</TH>
